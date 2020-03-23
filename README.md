@@ -3,7 +3,14 @@ This repository includes the source code and trained model of our CVPR 2020 pape
 
 Authors: Xueying Wang, Yudong Guo, [Bailin Deng](http://www.bdeng.me/) and [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).
 
-<img src = "images/network.png" height = "400px"/> 
+Note that all of the code is protected under patent. It is for research purposes only at your research institution only. 
+If you are interested in business purposes/for-profit use, please contact Juyong Zhang (the corresponding author, email: 
+juyong@ustc.edu.cn).
+
+## Results
+<img src = "images/results.png" height = "400px"/> 
+Sample results with different inputs. From left to right: input images, estimated normal maps and reconstructed 3D face 
+model. Here we use the leftmost image as the single input. You can find more results in the paper and supplementary material.
 
 
 ## Requirements
@@ -96,9 +103,3 @@ Please cite the following papers if it helps your research:
 
 ## Acknowledgement
 This work was supported by the National Natural Science Foundation of China (No. 61672481)
-
-
-## License
-Note that all of the code is protected under patent. It is for research purposes only at your research institution only. 
-If you are interested in business purposes/for-profit use, please contact Juyong Zhang (the corresponding author, email: 
-juyong@ustc.edu.cn).
