@@ -10,7 +10,7 @@ juyong@ustc.edu.cn).
 ## Results
 <img src = "images/results.png" height = "400px"/> 
 Sample results with different inputs. From left to right: input images, estimated normal maps and reconstructed 3D face 
-model. Here we use the leftmost image as the single input. You can find more results in the paper and supplementary material.
+models. Here we use the leftmost image as the single input. You can find more results in the paper and supplementary material.
 
 
 ## Requirements
@@ -102,4 +102,7 @@ Please cite the following papers if it helps your research:
 
 
 ## Acknowledgement
-This work was supported by the National Natural Science Foundation of China (No. 61672481)
+This work was supported by the National Natural Science Foundation of China (No. 61672481), and Youth Innovation Promotion Association CAS (No. 2018495).
+
+
+
