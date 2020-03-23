@@ -1,0 +1,1 @@
+python main.py 0 sample_imgs.txt output
