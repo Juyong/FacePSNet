@@ -3,9 +3,7 @@ This repository includes the source code and trained model of our CVPR 2020 pape
 
 Authors: Xueying Wang, Yudong Guo, [Bailin Deng](http://www.bdeng.me/) and [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).
 
-Note that all of the code is protected under patent. It is for research purposes only at your research institution only. 
-If you are interested in business purposes/for-profit use, please contact Juyong Zhang (the corresponding author, email: 
-juyong@ustc.edu.cn).
+Note that all of the code is protected under patent. It can be only used for research purposes. If you are interested in business purposes/for-profit use, please contact Juyong Zhang (the corresponding author, email: juyong@ustc.edu.cn).
 
 ## Results
 <img src = "images/results.png" height = "400px"/> 
