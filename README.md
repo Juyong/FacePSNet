@@ -1,5 +1,5 @@
 # FacePSNet
-This repository includes the source code and trained model of our CVPR 2020 paper "Lightweight Photometric Stereo for Facial Details Recovery"
+This repository includes the source code and trained model of paper "Lightweight Photometric Stereo for Facial Details Recovery", CVPR 2020, [https://arxiv.org/abs/2003.12307](https://arxiv.org/abs/2003.12307).
 
 Authors: Xueying Wang, Yudong Guo, [Bailin Deng](http://www.bdeng.me/) and [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).
 
